@@ -1,0 +1,8 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [
+        "./venv/lib/site-packages"  // Змініть шлях відповідно до вашого віртуального середовища
+    ],
+    
+}
